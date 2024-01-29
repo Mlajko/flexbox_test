@@ -12,4 +12,5 @@
 
 .menu {
     border: 1px solid white; /* for debugging */
+    width: 900px;
 }
